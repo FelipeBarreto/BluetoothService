@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/SOMC/!svn/ver/998/BluetoothService/trunk/aidl/br/ufc/great/somc/network/base
+END
+BluetoothServiceApi.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/SOMC/!svn/ver/924/BluetoothService/trunk/aidl/br/ufc/great/somc/network/base/BluetoothServiceApi.aidl
+END
+BluetoothListener.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/SOMC/!svn/ver/998/BluetoothService/trunk/aidl/br/ufc/great/somc/network/base/BluetoothListener.aidl
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/SOMC/!svn/ver/1840/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers
+END
+StateChangeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/SOMC/!svn/ver/1838/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/StateChangeReceiver.java
+END
+StateScanModeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/SOMC/!svn/ver/1838/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/StateScanModeReceiver.java
+END
+ExceptionReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/SOMC/!svn/ver/1840/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/ExceptionReceiver.java
+END
+StateDiscoveryReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/SOMC/!svn/ver/1838/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/StateDiscoveryReceiver.java
+END
+DeviceFoundReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/SOMC/!svn/ver/1838/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/DeviceFoundReceiver.java
+END
+NotNeighborDeviceReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/SOMC/!svn/ver/1840/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/NotNeighborDeviceReceiver.java
+END
+DevicesConnectionReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/SOMC/!svn/ver/1840/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/DevicesConnectionReceiver.java
+END
+StateObservingReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/SOMC/!svn/ver/1840/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/StateObservingReceiver.java
+END
+MessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/SOMC/!svn/ver/1840/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/receivers/MessageReceiver.java
+END

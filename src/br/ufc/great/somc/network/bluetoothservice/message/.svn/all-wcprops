@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/message
+END
+HandShakeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/message/HandShakeMessage.java
+END
+Bye.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/message/Bye.java
+END
+BluetoothMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/message/BluetoothMessage.java
+END
+HelloReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/message/HelloReply.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/message/Message.java
+END
+Hello.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/message/Hello.java
+END
+NeighborhoodRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/message/NeighborhoodRequest.java
+END

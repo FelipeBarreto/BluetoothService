@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/SOMC/!svn/ver/1841/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice
+END
+ObserverThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/SOMC/!svn/ver/1835/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/ObserverThread.java
+END
+ServiceBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/SOMC/!svn/ver/1839/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/ServiceBinder.java
+END
+Neighborhood.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/SOMC/!svn/ver/1834/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/Neighborhood.java
+END
+BluetoothThreadListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/SOMC/!svn/ver/1833/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/BluetoothThreadListener.java
+END
+BluetoothEventsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/SOMC/!svn/ver/1833/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/BluetoothEventsListener.java
+END
+BluetoothNetworkManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/SOMC/!svn/ver/1841/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/BluetoothNetworkManagerService.java
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/SOMC/!svn/ver/1833/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/Device.java
+END
+InsecureBluetooth.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/SOMC/!svn/ver/1835/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/InsecureBluetooth.java
+END
+ConnectionsPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/SOMC/!svn/ver/1836/BluetoothService/trunk/src/br/ufc/great/somc/network/bluetoothservice/ConnectionsPool.java
+END
